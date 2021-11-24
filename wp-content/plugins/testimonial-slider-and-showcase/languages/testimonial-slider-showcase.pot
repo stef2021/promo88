@@ -1,0 +1,760 @@
+# Copyright (C) 2021 Testimonial Slider And Showcase
+# This file is distributed under the same license as the Testimonial Slider And Showcase package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonial Slider And Showcase\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../lib/classes/TSSFrontEndSubmission.php:35, ../lib/classes/TSSProOptions.php:157
+msgid "[{site_name}] New Testimonial received"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:38
+msgid "Dear Administrator,<br /><br />You have received a new Testimonial on the website {site_name}.<br /><br />Please do not respond to this message. It is automatically generated and is for information purposes only."
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:65
+msgid "Name field is required"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:68
+msgid "Testimonial field is required"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:74
+msgid "reCAPTCHA field is required"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:142
+msgid "Session error"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:81
+msgid "reCAPTCHA verification error"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:138
+msgid "Wp Error!!!."
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:136
+msgid "Testimonial successfully posted."
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:159
+msgid "Submit"
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:186
+msgid "Name field is required."
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:187, ../lib/classes/TSSFrontEndSubmission.php:192
+msgid "Testimonial field is required."
+msgstr ""
+
+#: ../lib/classes/TSSFrontEndSubmission.php:188
+msgid "reCAPTCHA field is required."
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:61
+msgid "Short Code Generator"
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:69
+msgid "Layout Preview"
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:77, ../lib/classes/TSSPortSCMeta.php:93
+msgid "Documentation"
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:94
+msgid "Get started by spending some time with the documentation we included step by step process with screenshots with video."
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:151
+msgid "Layout"
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:152
+msgid "Filtering"
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:153
+msgid "Field Selection"
+msgstr ""
+
+#: ../lib/classes/TSSPortSCMeta.php:154
+msgid "Styling"
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:343, ../lib/classes/TSSPreview.php:580, ../lib/classes/TSSProInit.php:292
+msgid "Security Error !!"
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:191, ../lib/classes/TSSPreview.php:324, ../lib/classes/TSSProSC.php:238, ../lib/classes/TSSProSC.php:374
+msgid "Loading ..."
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:301, ../lib/classes/TSSProSC.php:352
+msgid "No testimonial found"
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:220, ../lib/classes/TSSProSC.php:268
+msgid "Show all"
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:226, ../lib/classes/TSSProSC.php:274
+msgid "Search"
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:322, ../lib/classes/TSSPreview.php:575, ../lib/classes/TSSProSC.php:372
+msgid "No More Post to load"
+msgstr ""
+
+#: ../lib/classes/TSSPreview.php:323, ../lib/classes/TSSProSC.php:373
+msgid "Load More"
+msgstr ""
+
+#: ../lib/classes/TSSProAdmin.php:18
+msgid "Testimonial ShortCode"
+msgstr ""
+
+#: ../lib/classes/TSSProAdmin.php:35, ../lib/classes/TSSProOptions.php:74
+msgid "Image"
+msgstr ""
+
+#: ../lib/classes/TSSProAdmin.php:36, ../lib/classes/TSSProOptions.php:98, ../lib/classes/TSSProOptions.php:497, ../lib/classes/TSSProOptions.php:841
+msgid "Designation"
+msgstr ""
+
+#: ../lib/classes/TSSProAdmin.php:37, ../lib/classes/TSSProOptions.php:99, ../lib/classes/TSSProOptions.php:502, ../lib/classes/TSSProOptions.php:842
+msgid "Company"
+msgstr ""
+
+#: ../lib/classes/TSSProAdmin.php:38, ../lib/classes/TSSProOptions.php:100, ../lib/classes/TSSProOptions.php:507, ../lib/classes/TSSProOptions.php:843
+msgid "Location"
+msgstr ""
+
+#: ../lib/classes/TSSProHelper.php:565
+msgid "Custom image size"
+msgstr ""
+
+#: ../lib/classes/TSSProHelper.php:903
+msgid "Share on facebook"
+msgstr ""
+
+#: ../lib/classes/TSSProHelper.php:907
+msgid "Share on twitter"
+msgstr ""
+
+#: ../lib/classes/TSSProHelper.php:911
+msgid "Share on linkedin"
+msgstr ""
+
+#: ../lib/classes/TSSProHelper.php:915
+msgid "Share on pinterest"
+msgstr ""
+
+#: ../lib/classes/TSSProHelper.php:920
+msgid "Share on Email"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:88, ../lib/classes/TSSProInit.php:92, ../lib/classes/TSSProInit.php:93, ../lib/classes/TSSProInit.php:94, ../lib/classes/TSSProOptions.php:69, ../lib/classes/TSSProOptions.php:831
+msgid "Testimonial"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:90
+msgid "Testimonials"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:91
+msgid "All Testimonials"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:95, ../lib/classes/TSSProInit.php:96
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:97
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:98
+msgid "New Testimonial"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:99
+msgid "View Testimonial"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:100
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:101
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:102
+msgid "No Testimonials in the trash"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:122, ../lib/classes/TSSProInit.php:125, ../lib/classes/TSSProInit.php:126, ../lib/classes/TSSProInit.php:127
+msgid "ShortCode"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:123
+msgid "Testimonial ShortCode generator"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:128
+msgid "Edit ShortCode"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:129
+msgid "New ShortCode"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:130
+msgid "View ShortCode"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:131
+msgid "ShortCode Locations"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:132
+msgid "No ShortCode found."
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:133
+msgid "No ShortCode found in trash."
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:290
+msgid "Settings successfully updated"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:306, ../lib/views/settings.php:2
+msgid "Testimonial Settings"
+msgstr ""
+
+#: ../lib/classes/TSSProInit.php:307
+msgid "Settings"
+msgstr ""
+
+#: ../lib/classes/TSSProLoadMoreResponse.php:225, ../lib/classes/TSSProTaxMeta.php:43, ../lib/classes/TSSProTaxMeta.php:82
+msgid "Security error"
+msgstr ""
+
+#: ../lib/classes/TSSProLoadMoreResponse.php:222, ../lib/classes/TSSProLoadMoreResponse.php:217
+msgid "No more testimonial to load"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:10
+msgid "Slug"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:12
+msgid "Slug configuration"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:64
+msgid "Name"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:91, ../lib/classes/TSSProOptions.php:129
+msgid "Select the field"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:95, ../lib/classes/TSSProOptions.php:838, ../lib/classes/TSSProOptions.php:829
+msgid "Author"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:96, ../lib/classes/TSSProOptions.php:839, ../lib/classes/TSSProOptions.php:830
+msgid "Author Image"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:97, ../lib/classes/TSSProOptions.php:840
+msgid "Short Description"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:101, ../lib/classes/TSSProOptions.php:512, ../lib/classes/TSSProOptions.php:635, ../lib/classes/TSSProOptions.php:844
+msgid "Rating"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:105, ../lib/classes/TSSProOptions.php:134
+msgid "Select the option which you like to display"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:139
+msgid "Disable admin notification"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:140
+msgid "Disable"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:146
+msgid "Admin Notification to Email"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:149
+msgid "If blank this will be the admin email."
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:154
+msgid "Notification Email Subject"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:168
+msgid "reCAPTCHA"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:183
+msgid "Site Key"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:189
+msgid "Secret Key"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:202
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:204
+msgid "Add your custom css here!!!"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:214
+msgid "Deactivate License"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:215
+msgid "Activate License"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:222
+msgid "Enter your license key"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:247
+msgid "Field selection"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:252
+msgid "Check the field which you want to display"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:306
+msgid "Desktop column"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:313
+msgid "Tab column"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:320
+msgid "Mobile column"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:326
+msgid "Speed"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:330
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:333
+msgid "Carousel Options"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:342
+msgid "Autoplay timeout"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:346
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:350, ../lib/classes/TSSProOptions.php:812
+msgid "Pagination"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:352, ../lib/classes/TSSProOptions.php:415
+msgid "Enable"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:357
+msgid "Display per page"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:360
+msgid "If value of Limit setting is not blank (empty), this value should be smaller than Limit value."
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:365
+msgid "Load more button text"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:367
+msgid "Load more"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:371
+msgid "Image Size"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:377
+msgid "Custom Image Size"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:382
+msgid "Image Type"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:390
+msgid "Testimonial limit"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:391
+msgid "Testimonial limit only integer number is allowed, Leave it blank for full text."
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:396
+msgid "Margin"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:398
+msgid "Select the margin for layout"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:404
+msgid "Grid style"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:407
+msgid "Select grid style for layout"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:414
+msgid "Detail page link"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:421
+msgid "Default preview  image"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:422
+msgid "Add an image for default preview"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:433
+msgid "Include only"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:435, ../lib/classes/TSSProOptions.php:440
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:438
+msgid "Exclude"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:443
+msgid "Limit"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:445
+msgid "The number of posts to show. Set empty to show all found posts."
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:449
+msgid "Categories"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:454, ../lib/classes/TSSProOptions.php:464
+msgid "Select the category you want to filter, Leave it blank for All category"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:459
+msgid "Tags"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:469
+msgid "Taxonomy relation"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:473
+msgid "Select this option if you select more than one taxonomy like category and tag, or category , tag and tools"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:478
+msgid "Order By"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:485, ../lib/classes/TSSProTaxMeta.php:132
+msgid "Order"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:516
+msgid "Video URL"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:523
+msgid "Social media"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:536
+msgid "Parent class"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:538
+msgid "Parent class for adding custom css"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:542
+msgid "Color schema"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:546
+msgid "Primary"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:583
+msgid "Isotope counter tooltip background color"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:589
+msgid "Isotope counter tooltip text color"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:594
+msgid "Gutter / Padding"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:604
+msgid "Border width at pixel"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:605
+msgid "Only number is allowed"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:610
+msgid "Border Color"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:614
+msgid "Border style"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:627
+msgid "Author name"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:631
+msgid "Author bio"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:640
+msgid "Social"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:644
+msgid "Testimonial Style"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:648
+msgid "Color"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:698
+msgid "Random"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:706
+msgid "Ascending"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:707
+msgid "Descending"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:720
+msgid "Soft Crop"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:721
+msgid "Hard Crop"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:808
+msgid "Loop"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:809
+msgid "Auto Play"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:810
+msgid "Pause on mouse hover"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:811
+msgid "Nav Button"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:813
+msgid "Auto Height"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:814
+msgid "Lazy Load"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:815
+msgid "Right to left (RTL)"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:824
+msgid "Video"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:832
+msgid "Read More"
+msgstr ""
+
+#: ../lib/classes/TSSProOptions.php:835
+msgid "Social Share"
+msgstr ""
+
+#: ../lib/classes/TSSProSC.php:399
+msgid "No shortCode found"
+msgstr ""
+
+#: ../lib/classes/TSSProTaxMeta.php:40
+msgid "No term in list"
+msgstr ""
+
+#: ../lib/classes/TSSProTaxMeta.php:79
+msgid "Select a taxonomy"
+msgstr ""
+
+#: ../lib/classes/TSSProTaxMeta.php:76
+msgid "No term found"
+msgstr ""
+
+#: ../lib/classes/TSSVCInit.php:34
+msgid "Testimonial Pro"
+msgstr ""
+
+#: ../lib/classes/TSSVCInit.php:45
+msgid "Short Code"
+msgstr ""
+
+#: ../lib/classes/TSSVCInit.php:49
+msgid "Short Code list"
+msgstr ""
+
+#: ../lib/models/TSSProField.php:308
+msgid "Please use default customizer to add your css. This option is deprecated. "
+msgstr ""
+
+#: ../lib/models/TSSProField.php:677
+msgid "Width"
+msgstr ""
+
+#: ../lib/models/TSSProField.php:775, ../lib/models/TSSProField.php:751
+msgid "Active Social link"
+msgstr ""
+
+#: ../lib/models/TSSProField.php:760
+msgid "Available Social link"
+msgstr ""
+
+#: ../lib/views/settings.php:5
+msgid "General settings"
+msgstr ""
+
+#: ../lib/views/settings.php:14
+msgid "General"
+msgstr ""
+
+#: ../lib/views/settings.php:18
+msgid "Support"
+msgstr ""
+
+#: ../lib/views/settings.php:30
+msgid "How to use Testimonial Slider and Showcase?"
+msgstr ""
+
+#: ../lib/views/settings.php:33
+msgid "Online documentation"
+msgstr ""
+
+#: ../lib/views/settings.php:35
+msgid "From our online documentation, you will know how to use our pluign. <br> If you face any issue please create a ticket. We will provide you solution as soon as possible."
+msgstr ""
+
+#: ../lib/views/settings.php:36
+msgid "Online Documentation"
+msgstr ""
+
+#: ../lib/views/settings.php:37
+msgid "Get Support"
+msgstr ""
+
+#: ../lib/views/settings.php:48
+msgid "Save Changes"
+msgstr ""
+
+#: ../lib/views/taxonomy-order.php:4
+msgid "Taxonomy Ordering"
+msgstr ""
+
+#: ../lib/views/taxonomy-order.php:7
+msgid ""
+"Please update your wordpress to 4.4.0 or\n"
+"				latest version to use taxonomy order functionality."
+msgstr ""
+
+#: ../lib/views/taxonomy-order.php:11
+msgid "Select taxonomy"
+msgstr ""
+
+#: ../lib/views/taxonomy-order.php:13
+msgid "Select one taxonomy"
+msgstr ""
+
+#: ../lib/views/taxonomy-order.php:25
+msgid "No taxonomy selected"
+msgstr ""
+
+#: ../lib/widgets/TSScWidget.php:12
+msgid "Display Testimonial"
+msgstr ""
+
+#: ../lib/widgets/TSScWidget.php:14
+msgid "Testimonial Slider And Showcase"
+msgstr ""
+
+#: ../lib/widgets/TSScWidget.php:45
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets/TSScWidget.php:51
+msgid "Select a shortcode"
+msgstr ""
